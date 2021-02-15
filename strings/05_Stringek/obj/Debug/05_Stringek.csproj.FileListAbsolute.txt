@@ -1,0 +1,10 @@
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\bin\Debug\05_Stringek.exe.config
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\bin\Debug\05_Stringek.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\bin\Debug\05_Stringek.pdb
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\05_Stringek.csprojAssemblyReference.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\_05_Stringek.Form1.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\_05_Stringek.Properties.Resources.resources
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\05_Stringek.csproj.GenerateResource.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\05_Stringek.csproj.CoreCompileInputs.cache
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\05_Stringek.exe
+C:\Users\Leleke\Desktop\GepInfoKurzus\05_Stringek\05_Stringek\obj\Debug\05_Stringek.pdb
